@@ -1,0 +1,9 @@
+{
+  "name": "session-amplify",
+  "description": "Persistent session variables with amplify.",
+  "homepage": "https://github.com/donflopez/meteor-session-amplify",
+  "author": "Francisco López (http://about.me/donflopez",
+  "version": "1.0.0",
+  "git": "https://github.com/donflopez/meteor-session-amplify.git",
+  "packages": { }
+}
